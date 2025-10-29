@@ -7,7 +7,7 @@
 **Cursor 一键续杯换号助手**
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-0.2.3-brightgreen.svg)](https://github.com/Sxuan-Coder/cursor-shifter/releases)
+[![Version](https://img.shields.io/badge/version-0.3.2-brightgreen.svg)](https://github.com/Sxuan-Coder/cursor-shifter/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows|Mac-red.svg)](https://github.com/Sxuan-Coder/cursor-shifter/releases)
 [![使用教程必看](https://img.shields.io/badge/必看使用教程-black.svg)](https://docs.qq.com/aio/DT0p2dU9jb3NUSnhH)
 
@@ -142,7 +142,7 @@
 ## 🔄 更新日志
 
 ### 最新版本号
- v0.2.3
+ v0.3.2
 ---
 
 ## ⚠️ 声明
